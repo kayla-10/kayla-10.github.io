@@ -1,0 +1,22 @@
+body{
+  background-color:#1da003;
+  color: burlywood;
+  padding: 10px; 
+}
+
+#heeleys {
+  float: left;
+}
+
+#description {
+  float: right;
+}
+
+#reviews{
+  clear: both;
+}
+
+.name{
+  font-size: 20px;
+  font-weight: bold;
+}
